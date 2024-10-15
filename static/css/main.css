@@ -1,0 +1,15 @@
+
+
+#logo {
+    width: 150px; /* Ajuster la taille du logo */
+    height: auto; /* Garder les proportions */
+    margin: 0 auto; /* Centrer horizontalement */
+    display: block; /* Nécessaire pour le centrage si c'est une image */
+    padding: 10px; /* Un peu d'espacement autour du logo */
+}
+
+body{
+	background-color: #19ddfb;
+}
+
+
